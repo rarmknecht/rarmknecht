@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 🕊 Volunteer Efforts
 - Board Member - DePaul University Arditti Center for Risk Management
-- Advisory Board Member – Chicago City Colleges
+- Advisory Board Member – City Colleges of Chicago
 
 📜 Professional Certifications
 - Current: CMMC Registered Practitioner
