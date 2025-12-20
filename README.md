@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - Advisory Board Member – City Colleges of Chicago
 
 📜 Professional Certifications
-- Current: CMMC Registered Practitioner
+- Current: CMMC Registered Practitioner Advanced
 - Former: AWS Security Specialist and AWS Solutions Architect Associate
 - Former: Encase EnCE and GIAC GCIH
 - Former: CISSP
