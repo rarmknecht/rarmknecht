@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### 👋 Randy Armknecht - Tech & AI Enthusiast, Cybersecurity Leader, Novice Martial Artist 
 
-🏢 I'm currently leading the Global Infrastructure, Cloud, and Security Engineering practice at my employer, Protiviti. I enjoy sharing my knowledge and passion with others, so I speak at conferences a few times a year and also enjoy the opportunity to be a guest lecturer at universities. 
+🏢 I'm currently leading the Global Infrastructure, Cloud, and Security Engineering practice at my employer, Protiviti. I enjoy sharing my knowledge and passion with others, so I speak at conferences a few times a year and also enjoy the opportunity to be a guest lecturer at universities. You can follow my blog at: https://cleartext.sleepingbear.tech/
 
 💬 Ask me about:
 
